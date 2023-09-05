@@ -1,2 +1,2 @@
-<img src="[https://img-host.ru/V0BOa.jpg](https://camo.githubusercontent.com/1389066a224eb88f63364faf12cf5968966b04de7358cfce16de31c0d77a8be2/68747470733a2f2f696d672d686f73742e72752f5630424f612e6a7067)https://camo.githubusercontent.com/1389066a224eb88f63364faf12cf5968966b04de7358cfce16de31c0d77a8be2/68747470733a2f2f696d672d686f73742e72752f5630424f612e6a7067" width="100%">
+<img src="https://img-host.ru/V0BOa.jpg"> width="100%">
 Универсальные ключи от домофонов Норильска в формате для Flipper Zero
