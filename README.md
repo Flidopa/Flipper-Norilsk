@@ -7,5 +7,7 @@
 
 
 # Вы из Норильска? У вас есть ключи? ОТПРАВЬТЕ ИХ МНЕ!
-Напишите мне в<a href="https://html5css.ru/html/">Telegram</a>
+Напишите мне в <a href="https://html5css.ru/html/">Telegram</a>
+Или
+В мой дискорд - flidopa
 
