@@ -23,4 +23,4 @@
 + к сожалению iButton ключей нету (・_・;) 
 
 # Используя мои файлы, вы соглашаетесь с этими правилами:
-<img src="https://i.imgur.com/sNZmYhW.jpg" width="100%"> 
+<img src="https://i.imgur.com/tffbF0t.jpg" width="100%"> 
